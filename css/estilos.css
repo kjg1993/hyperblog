@@ -39,6 +39,7 @@ body {
 
 #contenedor h1 {
 	font-size:20px;
+
 }
 
 #post {
@@ -49,4 +50,14 @@ body {
 .negrita{
 	font-size: 24px;
 	color:yellow;
-}
+ }
+
+ }
+
+ .footer {
+ 	background: #777;
+ 	color:white;
+ 	text-align: center;
+ 	padding: 0.5em;
+ }
+
