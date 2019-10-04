@@ -13,5 +13,7 @@ En este curso veremos de todo :
 * Trucos muy locos del profesor 
 * Las personalidades multiples de freddy 
 * Creado por el increíble Equipo de KjDevelopers team 
+* Incluye ejemplos en Windows, Linux,  Mac
+* Disponibles para todas las edades 
 
 Y como un amable recordatorio **Este readme.md es un chiste** diseñado  para el ejemplo. Si llegas aca no  te lo tomes enserio y mejor ve aver el curso.
