@@ -12,5 +12,6 @@ En este curso veremos de todo :
 * El verdadero  amor por las buenas practicas 
 * Trucos muy locos del profesor 
 * Las personalidades multiples de freddy 
+* Creado por el increíble Equipo de KjDevelopers team 
 
 Y como un amable recordatorio **Este readme.md es un chiste** diseñado  para el ejemplo. Si llegas aca no  te lo tomes enserio y mejor ve aver el curso.
